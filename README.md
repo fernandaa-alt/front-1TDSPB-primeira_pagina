@@ -11,7 +11,7 @@
 -- git branch
 -- git push
 ```
-## Partindo para um conteúdo mais avançado>
+## Partindo para um conteúdo mais avançado:
 - Manipulando branchs
 ```
 -- git checkout
